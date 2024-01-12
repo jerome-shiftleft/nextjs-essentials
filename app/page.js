@@ -1,4 +1,5 @@
 export default function Home() {
+  console.log('test123'); // doesn't show in browser console
   return (
     <main>
       <img src="/logo.png" alt="A server surrounded by magic sparkles." />
