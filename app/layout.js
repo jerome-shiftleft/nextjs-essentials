@@ -1,4 +1,5 @@
-import './globals.css'
+import './globals.css';
+import './sass/app.scss';
 
 export const metadata = {
   title: 'NextJS Course App',
